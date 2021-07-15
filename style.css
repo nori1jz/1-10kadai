@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  height: 50px;
+  background-color: #FF9A4B;
+
+
+}
+
+.main{
+  width: 960px;
+  margin-top:  50px;
+  margin-bottom: 50px;
+}
+
+.main-content{
+  width: 300px;
+  ;
+
+}
+
+
+
+footer{
+  height: 50px;
+  background-color: #AAAAAA;
+
+}
